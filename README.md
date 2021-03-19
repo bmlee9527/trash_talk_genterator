@@ -23,7 +23,7 @@ git clone https://github.com/bmlee9527/trash_talk_genterator.git
 2. 開啟終端機(Terminal)，進入存放此專案的資料夾
 
 ```
-cd restaurantList
+cd trash_talk_generator
 ```
 
 3. 安裝 npm 套件
